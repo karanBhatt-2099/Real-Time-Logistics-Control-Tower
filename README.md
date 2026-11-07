@@ -498,8 +498,3 @@ For live platform diagnostics, the repository also includes:
 ```
 
 Static validation checks repository structure, SQL template presence, Python syntax, YAML/JSON configuration, and key pipeline contracts. It does not replace a live Docker integration test of Flink SQL jobs.
-
----
-=======
-# Real-Time-Logistics-Control-Tower
->>>>>>> da78c14fca151c3928c5a83ac2dd7c7c143f1123
